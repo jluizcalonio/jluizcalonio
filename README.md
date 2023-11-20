@@ -1,4 +1,4 @@
-#### VERSÃO EM PORTUGUÊS
+#### VERSÃO EM PORTUGUÊS 🇧🇷
 
 ## Habilidades 💻 
 ![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5)
@@ -22,7 +22,7 @@ Sou estudante de TI me formando atualmente em Análise e Desenvolvimento de Sist
    <br/>
    <br/>
    
-#### ENGLISH VERSION
+#### ENGLISH VERSION 🇺🇸
 
 ## Skills 💻
 ![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5)
